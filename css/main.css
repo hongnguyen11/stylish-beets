@@ -1,6 +1,9 @@
 html {
   background-color: #c9b5ab;
   font-weight: normal;
+  width: 100%;
+  height: auto;
+  position: relative;
 }
 
 h1 {
@@ -12,6 +15,7 @@ h1 {
 
 img {
   width: 100%;
+  height:auto;
 }
 
 nav ol li {
@@ -58,10 +62,6 @@ blockquote {
   font-size: 1.5rem;
   font-style: italic;
   text-align: left;
-}
-
-.cite {
-  font-size: 1rem;
 }
 
 h2 {
@@ -116,4 +116,8 @@ dd:nth-child(2) {
 
 dt:nth-child(odd) {
   font-weight: bold;
+}
+
+.cite {
+  font-size: 1rem;
 }
