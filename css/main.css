@@ -1,9 +1,8 @@
 html {
   background-color: #c9b5ab;
   font-weight: normal;
-  width: 100%;
+  width: 608px;
   height: auto;
-  position: relative;
 }
 
 h1 {
@@ -15,7 +14,7 @@ h1 {
 
 img {
   width: 100%;
-  height:auto;
+  height: auto;
 }
 
 nav ol li {
@@ -26,16 +25,16 @@ nav ol li {
   line-height: 1.5;
 }
 
-nav a:link {
+a:link {
   color: #8f2440;
   text-decoration: none;
 }
 
-nav a:visited {
+a:visited {
   color: #8f2440;
 }
 
-nav a:hover {
+a:hover {
   color: #3f1622;
   text-decoration: underline;
 }
