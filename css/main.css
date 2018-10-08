@@ -1,5 +1,6 @@
 html {
   background-color: #c9b5ab;
+  font-weight: normal;
 }
 
 h1 {
@@ -43,7 +44,7 @@ p:first-child {
 
 figcaption {
   font-family: "PT Serif", serif;
-  font-size: 0.8rem;
+  font-size: 1rem;
   font-style: italic;
   text-align: center;
 }
@@ -60,7 +61,7 @@ blockquote {
 }
 
 .cite {
-  font-size: 0.8rem;
+  font-size: 1rem;
 }
 
 h2 {
